@@ -23,3 +23,4 @@ website: https://piplosion.app
 icon: ./assets/icon.png
 metadata_sources:
     - github
+pubkey: npub17jm4z3qwxtn83hm39amv253xxjthcwvju67cff4g0eavddqk87fqptkqq7
