@@ -1,0 +1,25 @@
+repository: https://github.com/cleuenberg/piplosion-android
+name: Piplosion
+description: |
+    Piplosion is a retro dice puzzle in 16-bit style. Dice keep dropping into a
+    6 × 12 grid – tap or swipe to chain matching pips or straights and clear them
+    before the stack reaches the top.
+
+    Jokers, bombs with chain reactions, a stopwatch that freezes time, a magnet that
+    closes gaps and a MIX meter that reshuffles the board. Rocket rewards at 25k,
+    50k, 75k and 100k points, chiptune sound and music, German, English and French.
+
+    Plays fully offline. Optional global hi-score list (only name, score, level and
+    date are stored – no IP addresses or device data).
+summary: Retro dice puzzle – chain pips, set off bombs, keep the board clear
+tags:
+    - game
+    - puzzle
+    - dice
+    - retro
+    - arcade
+    - offline
+website: https://piplosion.app
+icon: ./assets/icon.png
+metadata_sources:
+    - github
