@@ -10,7 +10,7 @@ description: |
     50k, 75k and 100k points, chiptune sound and music, German, English and French.
 
     Plays fully offline. Optional global hi-score list (only name, score, level and
-    date are stored – no IP addresses or device data).
+    date are stored; server logs are anonymized within 24 hours).
 summary: Retro dice puzzle – chain pips, set off bombs, keep the board clear
 tags:
     - game
