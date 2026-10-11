@@ -21,6 +21,13 @@ tags:
     - offline
 website: https://piplosion.app
 icon: ./assets/icon.png
+images:
+    - ./assets/screenshots/01-gameplay.png
+    - ./assets/screenshots/02-bomb.png
+    - ./assets/screenshots/03-rocket.png
+    - ./assets/screenshots/04-title.png
+    - ./assets/screenshots/05-how-to-play.png
+    - ./assets/screenshots/06-hi-scores.png
 metadata_sources:
     - github
 pubkey: npub17jm4z3qwxtn83hm39amv253xxjthcwvju67cff4g0eavddqk87fqptkqq7
