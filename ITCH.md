@@ -10,7 +10,7 @@ Erst als **Draft** speichern, Vorschau testen, dann auf **Public** stellen.
 | Web-Version (im Browser spielbar) | `piplosion-web-X.Y.Z.zip` – lokal: `piplosion/dist/`, sonst Artefakt des GitHub-Builds |
 | Android-APK | aus dem [neuesten Release](https://github.com/cleuenberg/piplosion-android/releases/latest) |
 | Titelbild (Cover, 630 × 500) | `assets/itch-cover.png` |
-| Screenshots | `assets/screenshots/01-gameplay.png` … `06-hi-scores.png` |
+| Screenshots | `assets/itch-screenshots/01-gameplay.png` … `06-hi-scores.png` (1080 × 2160 – itch.io erlaubt max. 2160 px Höhe; `assets/screenshots/` ist der Zapstore-Satz mit 2280 px) |
 
 ## Grundeinstellungen („Create new project“)
 
@@ -78,7 +78,7 @@ Erst als **Draft** speichern, Vorschau testen, dann auf **Public** stellen.
 
 - Background: `#0b0a1e` · Inner background: `#15143a`
 - Text: `#f4f0ff` · Link / Button: `#ffe14a`
-- Cover: `assets/itch-cover.png`, Screenshots in der Reihenfolge 01 … 06
+- Cover: `assets/itch-cover.png`, Screenshots aus `assets/itch-screenshots/` in der Reihenfolge 01 … 06
 
 ## Automatische Updates (butler)
 
