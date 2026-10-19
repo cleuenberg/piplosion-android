@@ -63,7 +63,7 @@ Erst als **Draft** speichern, Vorschau testen, dann auf **Public** stellen.
 > **Play** right here in the browser, or install the Android app (APK below, also on [Zapstore](https://zapstore.dev)).
 > Also playable at [piplosion.app](https://piplosion.app) – installable and offline-capable.
 >
-> *Privacy: the global hi-score list is optional. Only name, score, level and date are stored; server logs are anonymized within 24 hours.*
+> *Privacy: the global hi-score list is optional. Only name, score, level, date and game version are stored; server logs are anonymized within 24 hours.*
 
 - **Genre:** Puzzle
 - **Tags** (max. 10): `puzzle`, `dice`, `pixel-art`, `retro`, `arcade`, `chiptune`, `16-bit`, `casual`, `singleplayer`, `offline`
